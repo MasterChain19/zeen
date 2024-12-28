@@ -161,8 +161,10 @@ body {
     100% { transform: translateX(-100%); }
   }
   
-  .rubik-burned-regular {
-    font-family: "Rubik Burned", system-ui;
+  .silkscreen-regular {
+    font-family: "Silkscreen", serif;
+    font-weight: 400;
+    font-style: normal;
   }
   
   .feature-box1 {
@@ -174,8 +176,8 @@ body {
     transition: transform 0.3s;
     position: relative;
     margin-left: 70%;
-    margin-top: -100%;
-    font-family: "Rubik Burned", system-ui;
+    margin-top: -80%;
+    font-family: "silkscreen", system-ui;
   }
 
   .feature-box1:hover {
